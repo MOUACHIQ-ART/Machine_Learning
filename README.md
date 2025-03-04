@@ -1,9 +1,11 @@
 # Machine_Learning
-# Apprentissage Automatique - Régression et Classification
+# Apprentissage Automatique - Régression, Classification et Architecture MLP
 
 ## Description
 
-Ce projet regroupe deux analyses fondamentales en apprentissage automatique :
+Ce projet regroupe trois analyses fondamentales en apprentissage automatique :
+
+  - Architecture MLP (Multilayer Perceptron) : Modélisation d’un réseau de neurones pour la prédiction du prix des joueurs de football.
 
   - Régression linéaire : Prédiction de l'espérance de vie à partir de différentes variables et évaluation du modèle.
 
@@ -11,7 +13,18 @@ Ce projet regroupe deux analyses fondamentales en apprentissage automatique :
 
 ## Contenu
 
-Partie 1 : Régression linéaire
+Partie 1 : Architecture MLP
+
+  - Exploration des données : Analyse des caractéristiques des joueurs.
+
+  - Prétraitement : Normalisation et transformation des variables catégorielles.
+
+  - Construction du modèle : Réseaux de neurones avec différentes architectures.
+
+  - Évaluation : Validation croisée et ajustement des hyperparamètres.
+
+
+Partie 2 : Régression linéaire
 
   - Exploration et visualisation des données : Analyse d’un jeu de données de l’OMS.
 
@@ -21,7 +34,7 @@ Partie 1 : Régression linéaire
 
   - Optimisation avec la descente de gradient.
 
-Partie 2 : Classification
+Partie 3 : Classification
 
   - Prétraitement des données : Normalisation et visualisation des caractéristiques.
 
